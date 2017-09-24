@@ -9,3 +9,7 @@ Trata-se de um modelo PSD para currículo.
 <p>Author: Lameck Fernandes</p>
 <p>Modelo: Resume Sephiroth</p>
 <p>Arquivo: PSD</p>
+
+<hr>
+<p>Este é um modelo de resumo criado no Phoroshop CS5</p>
+<img src="https://preview.ibb.co/efYbtk/pg1.jpg" width="300" height="400">
